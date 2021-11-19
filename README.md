@@ -37,7 +37,7 @@ The data should now be dynamic.  You can enter different GPS coordinates using t
 One such file, representing a hike through the wilderness, can be found in this repository:
 - `data/cedar_valley.gpx`
 
-![a screenshot of the app](images/map.png)
+![a screenshot of the app](https://github.com/csci-4100u/lab09-10/blob/bda4d0755f6386fbe2ce3ba5d7a8e2c6054a246e/images/map.PNG)
 
 _Figure 1 - A screenshot of the app, showing the map, the floating action button, and the app bar icons_
 
